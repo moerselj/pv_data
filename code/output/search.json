@@ -1,0 +1,2507 @@
+{
+  "docs": [
+    {
+      "score": [
+        "1445.0604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/koubaa/Active_Energy/CSV-File"
+      ],
+      "part": [
+        "CSV-File",
+        "Active_Energy",
+        "koubaa"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "koubaa"
+      ],
+      "label": [
+        "Measured data in csv format",
+        "Measured data in csv format"
+      ],
+      "group": [
+        "Active_Energy"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/henhuy/AP5/mob_road_mcar_bev_pass"
+      ],
+      "part": [
+        "mob_road_mcar_bev_pass",
+        "AP5",
+        "henhuy"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "henhuy"
+      ],
+      "label": [
+        "Techno-economic parameter m-sized electric cars",
+        "Techno-economic parameter m-sized electric cars"
+      ],
+      "group": [
+        "AP5"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/commodity"
+      ],
+      "part": [
+        "commodity",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "Parameter model minimal example - Commodity"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/conversion"
+      ],
+      "part": [
+        "conversion",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "Parameter model minimal example - Conversion"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/load"
+      ],
+      "part": [
+        "load",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "Parameter model minimal example - load"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/load_profile"
+      ],
+      "part": [
+        "load_profile",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "Parameter model minimal example - Load Profile"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_com_biogas"
+      ],
+      "part": [
+        "modex_com_biogas",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_com_biomass"
+      ],
+      "part": [
+        "modex_com_biomass",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_com_lignite"
+      ],
+      "part": [
+        "modex_com_lignite",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_constraint"
+      ],
+      "part": [
+        "modex_constraint",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_chp_combined_cycle"
+      ],
+      "part": [
+        "modex_tech_chp_combined_cycle",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_chp_combustion_engine"
+      ],
+      "part": [
+        "modex_tech_chp_combustion_engine",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_chp_gas"
+      ],
+      "part": [
+        "modex_tech_chp_gas",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_chp_steam"
+      ],
+      "part": [
+        "modex_tech_chp_steam",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_generator_combined_cycle"
+      ],
+      "part": [
+        "modex_tech_generator_combined_cycle",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_generator_gas"
+      ],
+      "part": [
+        "modex_tech_generator_gas",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_generator_steam"
+      ],
+      "part": [
+        "modex_tech_generator_steam",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_geothermal_unknown"
+      ],
+      "part": [
+        "modex_tech_geothermal_unknown",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_hydro_turbine_run_of_river"
+      ],
+      "part": [
+        "modex_tech_hydro_turbine_run_of_river",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_nuclear_unknown"
+      ],
+      "part": [
+        "modex_tech_nuclear_unknown",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_photovoltaics_rooftop"
+      ],
+      "part": [
+        "modex_tech_photovoltaics_rooftop",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_photovoltaics_unknown"
+      ],
+      "part": [
+        "modex_tech_photovoltaics_unknown",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_photovoltaics_utility"
+      ],
+      "part": [
+        "modex_tech_photovoltaics_utility",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_storage_battery"
+      ],
+      "part": [
+        "modex_tech_storage_battery",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_storage_hydrogen_fuelcell"
+      ],
+      "part": [
+        "modex_tech_storage_hydrogen_fuelcell",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_storage_hydrogen_gas"
+      ],
+      "part": [
+        "modex_tech_storage_hydrogen_gas",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_storage_pumped"
+      ],
+      "part": [
+        "modex_tech_storage_pumped",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_transmission_hvac"
+      ],
+      "part": [
+        "modex_tech_transmission_hvac",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_wind_turbine_offshore"
+      ],
+      "part": [
+        "modex_tech_wind_turbine_offshore",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/modex_tech_wind_turbine_onshore"
+      ],
+      "part": [
+        "modex_tech_wind_turbine_onshore",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/storage"
+      ],
+      "part": [
+        "storage",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "Parameter model minimal example - Storage"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/volatile"
+      ],
+      "part": [
+        "volatile",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "Parameter model minimal example - Volatile"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/minimal_example/volatile_profile"
+      ],
+      "part": [
+        "volatile_profile",
+        "minimal_example",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "Parameter model minimal example - Volatile Profile"
+      ],
+      "group": [
+        "minimal_example"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_capacity_factor"
+      ],
+      "part": [
+        "modex_capacity_factor",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_com_biogas"
+      ],
+      "part": [
+        "modex_com_biogas",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_com_biomass"
+      ],
+      "part": [
+        "modex_com_biomass",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_com_lignite"
+      ],
+      "part": [
+        "modex_com_lignite",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_com_waste"
+      ],
+      "part": [
+        "modex_com_waste",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_constraint"
+      ],
+      "part": [
+        "modex_constraint",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_demand"
+      ],
+      "part": [
+        "modex_demand",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_chp_combined_cycle"
+      ],
+      "part": [
+        "modex_tech_chp_combined_cycle",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_chp_combustion_engine"
+      ],
+      "part": [
+        "modex_tech_chp_combustion_engine",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_chp_gas"
+      ],
+      "part": [
+        "modex_tech_chp_gas",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_chp_steam"
+      ],
+      "part": [
+        "modex_tech_chp_steam",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_generator_combined_cycle"
+      ],
+      "part": [
+        "modex_tech_generator_combined_cycle",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_generator_combustion_engine"
+      ],
+      "part": [
+        "modex_tech_generator_combustion_engine",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_generator_gas"
+      ],
+      "part": [
+        "modex_tech_generator_gas",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_generator_steam"
+      ],
+      "part": [
+        "modex_tech_generator_steam",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_geothermal_unknown"
+      ],
+      "part": [
+        "modex_tech_geothermal_unknown",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_hydro_turbine_run_of_river"
+      ],
+      "part": [
+        "modex_tech_hydro_turbine_run_of_river",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_nuclear_unknown"
+      ],
+      "part": [
+        "modex_tech_nuclear_unknown",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_photovoltaics_rooftop"
+      ],
+      "part": [
+        "modex_tech_photovoltaics_rooftop",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_photovoltaics_unknown"
+      ],
+      "part": [
+        "modex_tech_photovoltaics_unknown",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_photovoltaics_utility"
+      ],
+      "part": [
+        "modex_tech_photovoltaics_utility",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_storage_battery"
+      ],
+      "part": [
+        "modex_tech_storage_battery",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_storage_hydrogen_fuelcell"
+      ],
+      "part": [
+        "modex_tech_storage_hydrogen_fuelcell",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_storage_hydrogen_gas"
+      ],
+      "part": [
+        "modex_tech_storage_hydrogen_gas",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_storage_pumped"
+      ],
+      "part": [
+        "modex_tech_storage_pumped",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_transmission_hvac"
+      ],
+      "part": [
+        "modex_tech_transmission_hvac",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_wind_turbine_offshore"
+      ],
+      "part": [
+        "modex_tech_wind_turbine_offshore",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/felixmaur/modex/modex_tech_wind_turbine_onshore"
+      ],
+      "part": [
+        "modex_tech_wind_turbine_onshore",
+        "modex",
+        "felixmaur"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "felixmaur"
+      ],
+      "label": [
+        "MODEX concrete Datamodel to Parameter"
+      ],
+      "group": [
+        "modex"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/boundaries/bkg_gn250_b"
+      ],
+      "part": [
+        "bkg_gn250_b",
+        "boundaries",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "BKG - Geographische Namen 1:250 000 - GN250 - Darstellung als Bounding-Boxes (Polygon)"
+      ],
+      "group": [
+        "boundaries"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/boundaries/bkg_gn250_p"
+      ],
+      "part": [
+        "bkg_gn250_p",
+        "boundaries",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "BKG - Geographische Namen 1:250 000 - GN250 - Darstellung als Punktgeometrie (Point)"
+      ],
+      "group": [
+        "boundaries"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/boundaries/bkg_vg250_1_sta"
+      ],
+      "part": [
+        "bkg_vg250_1_sta",
+        "boundaries",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "BKG - Verwaltungsgebiete 1:250.000 - Staat (STA)"
+      ],
+      "group": [
+        "boundaries"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/boundaries/bkg_vg250_2_lan"
+      ],
+      "part": [
+        "bkg_vg250_2_lan",
+        "boundaries",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "BKG - Verwaltungsgebiete 1:250.000 - L\xc3\xa4nder (LAN)"
+      ],
+      "group": [
+        "boundaries"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/boundaries/bkg_vg250_3_rbz"
+      ],
+      "part": [
+        "bkg_vg250_3_rbz",
+        "boundaries",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "BKG - Verwaltungsgebiete 1:250.000 - Regierungsbezirke (RBZ)"
+      ],
+      "group": [
+        "boundaries"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/boundaries/bkg_vg250_4_krs"
+      ],
+      "part": [
+        "bkg_vg250_4_krs",
+        "boundaries",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "BKG - Verwaltungsgebiete 1:250.000 - Kreise (KRS)"
+      ],
+      "group": [
+        "boundaries"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/boundaries/bkg_vg250_5_vwg"
+      ],
+      "part": [
+        "bkg_vg250_5_vwg",
+        "boundaries",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "BKG - Verwaltungsgebiete 1:250.000 - Verwaltungsgemeinschaften (VWG)"
+      ],
+      "group": [
+        "boundaries"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/boundaries/bkg_vg250_6_gem"
+      ],
+      "part": [
+        "bkg_vg250_6_gem",
+        "boundaries",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "BKG - Verwaltungsgebiete 1:250.000 - Gemeinden (GEM)"
+      ],
+      "group": [
+        "boundaries"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/boundaries/ffe_osm_nuts3"
+      ],
+      "part": [
+        "ffe_osm_nuts3",
+        "boundaries",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "NUTS-3 regions 2013 (generalized)"
+      ],
+      "group": [
+        "boundaries"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/boundaries/osm_postcode"
+      ],
+      "part": [
+        "osm_postcode",
+        "boundaries",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "BKG - Geographische Namen 1:250 000 - GN250 - Darstellung als Punktgeometrie (Point)"
+      ],
+      "group": [
+        "boundaries"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/climate/cosmoclmgrid"
+      ],
+      "part": [
+        "cosmoclmgrid",
+        "climate",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "COSMO-CLM Grid Layer"
+      ],
+      "group": [
+        "climate"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/climate/openfred_flags"
+      ],
+      "part": [
+        "openfred_flags",
+        "climate",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "coastDat3_COSMO-CLM_MERRA2 - open_FRED Weatherdata"
+      ],
+      "group": [
+        "climate"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/climate/openfred_locations"
+      ],
+      "part": [
+        "openfred_locations",
+        "climate",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "coastDat3_COSMO-CLM_MERRA2 - open_FRED Weatherdata"
+      ],
+      "group": [
+        "climate"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/climate/openfred_timespans"
+      ],
+      "part": [
+        "openfred_timespans",
+        "climate",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "coastDat3_COSMO-CLM_MERRA2 - open_FRED Weatherdata"
+      ],
+      "group": [
+        "climate"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/climate/openfred_variables"
+      ],
+      "part": [
+        "openfred_variables",
+        "climate",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "coastDat3_COSMO-CLM_MERRA2 - open_FRED Weatherdata"
+      ],
+      "group": [
+        "climate"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/climate/rli_dibt_windzone"
+      ],
+      "part": [
+        "rli_dibt_windzone",
+        "climate",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Windzone map for Germany"
+      ],
+      "group": [
+        "climate"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/climate/rli_dibt_windzone_vg"
+      ],
+      "part": [
+        "rli_dibt_windzone_vg",
+        "climate",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Windzone map for Germany per municipality"
+      ],
+      "group": [
+        "climate"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/climate/szenariendb_gwp"
+      ],
+      "part": [
+        "szenariendb_gwp",
+        "climate",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Global warming potentials from IPCC Assessment Reports"
+      ],
+      "group": [
+        "climate"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/demand/ego_demand_federalstate"
+      ],
+      "part": [
+        "ego_demand_federalstate",
+        "demand",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Electricity consumption per federal state in Germany"
+      ],
+      "group": [
+        "demand"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/demand/emsig_energy_data_by_ems"
+      ],
+      "part": [
+        "emsig_energy_data_by_ems",
+        "demand",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Metadata for the table emsig_energy_data_by_ems"
+      ],
+      "group": [
+        "demand"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/demand/emsig_energy_management_systems"
+      ],
+      "part": [
+        "emsig_energy_management_systems",
+        "demand",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Metadata for the table emsig_energy_management_systems"
+      ],
+      "group": [
+        "demand"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/demand/emsig_energy_storage_systems"
+      ],
+      "part": [
+        "emsig_energy_storage_systems",
+        "demand",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Metadata for the table emsig_energy_storage_systems"
+      ],
+      "group": [
+        "demand"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/economy/destatis_gva_per_district"
+      ],
+      "part": [
+        "destatis_gva_per_district",
+        "economy",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Gross value added per district in Germany"
+      ],
+      "group": [
+        "economy"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/copernicus_clc_2012_v_18_4_filter"
+      ],
+      "part": [
+        "copernicus_clc_2012_v_18_4_filter",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Copernicus Land Monitoring Services - CORINE Land Cover (CLC) - CLC 2012 - Landuse Filter"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/copernicus_clc_2012_v_18_4_germany"
+      ],
+      "part": [
+        "copernicus_clc_2012_v_18_4_germany",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Copernicus Land Monitoring Services - CORINE Land Cover (CLC) - CLC 2012 - Landuse Filter - Germany"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_geb01_f"
+      ],
+      "part": [
+        "dlm250_geb01_f",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - Verwaltungsgebiete, dargestellt durch fl\xc3\xa4chenhafte Objekte"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_geb01_l"
+      ],
+      "part": [
+        "dlm250_geb01_l",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - Verwaltungsgebiete, dargestellt durch linienhafte Objekte"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_geb02_f"
+      ],
+      "part": [
+        "dlm250_geb02_f",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - geographische Gebiete, dargestellt durch fl\xc3\xa4chenhafte Objekte"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_geb03_f"
+      ],
+      "part": [
+        "dlm250_geb03_f",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - Schutzgebiete, dargestellt durch fl\xc3\xa4chenhafte Objekte"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_gew0103_l"
+      ],
+      "part": [
+        "dlm250_gew0103_l",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - Gew\xc3\xa4sser und Gew\xc3\xa4sserachse, dargestellt durch linienhafte Objekte"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_gew01_f"
+      ],
+      "part": [
+        "dlm250_gew01_f",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - Gew\xc3\xa4sser, dargestellt durch fl\xc3\xa4chenhafte Objekte"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_gew01_l"
+      ],
+      "part": [
+        "dlm250_gew01_l",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - Gew\xc3\xa4sser, dargestellt durch linienhafte Objekte"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_gew02_f"
+      ],
+      "part": [
+        "dlm250_gew02_f",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - besondere Gew\xc3\xa4ssermerkmale, dargestellt durch fl\xc3\xa4chenhafte Objekte"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_gew02_l"
+      ],
+      "part": [
+        "dlm250_gew02_l",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - besondere Gew\xc3\xa4ssermerkmale, dargestellt durch linienhafte Objekte"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_gew02_p"
+      ],
+      "part": [
+        "dlm250_gew02_p",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - besondere Gew\xc3\xa4ssermerkmale, dargestellt durch punkthafte Objekte"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_gew03_l"
+      ],
+      "part": [
+        "dlm250_gew03_l",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - Gew\xc3\xa4sserachse, dargestellt durch linienhafte Objekte"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_hdu01_b"
+      ],
+      "part": [
+        "dlm250_hdu01_b",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - Referenzen"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_rel01_l"
+      ],
+      "part": [
+        "dlm250_rel01_l",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - Reliefformen, dargestellt durch linienhafte Objekte"
+      ],
+      "group": [
+        "environment"
+      ]
+    },
+    {
+      "score": [
+        "0.43104604"
+      ],
+      "resource": [
+        "https://databus.openenergyplatform.org/oeplatform/environment/dlm250_rel01_p"
+      ],
+      "part": [
+        "dlm250_rel01_p",
+        "environment",
+        "oeplatform"
+      ],
+      "typeName": [
+        "Artifact"
+      ],
+      "publisher": [
+        "oeplatform"
+      ],
+      "label": [
+        "Digitales Landschaftsmodell 1:250 000 - Reliefformen, dargestellt durch punkthafte Objekte"
+      ],
+      "group": [
+        "environment"
+      ]
+    }
+  ],
+  "query": "CSV-File"
+}

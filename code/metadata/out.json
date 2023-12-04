@@ -1,0 +1,99 @@
+{
+  "logLevel": "info",
+  "log": [
+    {
+      "resource": "https://databus.openenergyplatform.org/koubaa/test_group",
+      "msg": "Successfully published group <https://databus.openenergyplatform.org/koubaa/test_group>.",
+      "payload": {
+        "@context": "https://databus.openenergyplatform.org/res/context.jsonld",
+        "@id": "https://databus.openenergyplatform.org/koubaa/test_group",
+        "@type": "Group",
+        "abstract": "test group description",
+        "description": "test group description",
+        "title": "test_group",
+        "account": "https://databus.openenergyplatform.org/koubaa"
+      },
+      "level": "info"
+    },
+    {
+      "resource": "https://databus.openenergyplatform.org/koubaa/test_group/first_artefact",
+      "msg": "Successfully published artifact <https://databus.openenergyplatform.org/koubaa/test_group/first_artefact>.",
+      "payload": {
+        "@context": "https://databus.openenergyplatform.org/res/context.jsonld",
+        "@graph": [
+          {
+            "@id": "https://databus.openenergyplatform.org/koubaa/test_group/first_artefact",
+            "@type": "Artifact",
+            "abstract": "first artefact desc",
+            "description": "first artefact desc",
+            "title": "first artefact title",
+            "account": "https://databus.openenergyplatform.org/koubaa",
+            "group": "https://databus.openenergyplatform.org/koubaa/test_group"
+          },
+          {
+            "@id": "https://databus.openenergyplatform.org/koubaa/test_group",
+            "@type": "Group"
+          }
+        ]
+      },
+      "level": "info"
+    },
+    {
+      "resource": "https://databus.openenergyplatform.org/koubaa/test_group/first_artefact/2023-10-30",
+      "msg": "Successfully published version <https://databus.openenergyplatform.org/koubaa/test_group/first_artefact/2023-10-30>.",
+      "payload": {
+        "@context": "https://databus.openenergyplatform.org/res/context.jsonld",
+        "@graph": [
+          {
+            "@id": "https://databus.openenergyplatform.org/koubaa/test_group",
+            "@type": "Group",
+            "account": "https://databus.openenergyplatform.org/koubaa"
+          },
+          {
+            "@id": "https://databus.openenergyplatform.org/koubaa/test_group/first_artefact",
+            "@type": "Artifact",
+            "account": "https://databus.openenergyplatform.org/koubaa",
+            "group": "https://databus.openenergyplatform.org/koubaa/test_group"
+          },
+          {
+            "@id": "https://databus.openenergyplatform.org/koubaa/test_group/first_artefact/2023-10-30",
+            "@type": "Version",
+            "abstract": "first version desc",
+            "description": "first version desc",
+            "hasVersion": "2023-10-30",
+            "issued": "2023-10-30T15:03:55.966Z",
+            "license": "https://dalicc.net/licenselibrary/Apache-2.0",
+            "modified": "2023-10-30T15:03:55.966Z",
+            "publisher": "https://databus.openenergyplatform.org/koubaa#this",
+            "title": "first artefact title",
+            "distribution": "https://databus.openenergyplatform.org/koubaa/test_group/first_artefact/2023-10-30#first_artefact.md",
+            "account": "https://databus.openenergyplatform.org/koubaa",
+            "artifact": "https://databus.openenergyplatform.org/koubaa/test_group/first_artefact",
+            "group": "https://databus.openenergyplatform.org/koubaa/test_group",
+            "proof": {
+              "@type": "DatabusTractateV1",
+              "signature": {
+                "@type": "xsd:string",
+                "@value": "atQjmkAMpYF6MM7l4Ph6ylgGZEEy8UfSLIPtK5W2ikzT0UTBTWxNgaLlH1yyVghgEVc2FJTkuTT5DiWckRfYWvqaTDUF/f3mIARkulAkRRk9lTyf1EogHvzKbOllmrJAQyNZTJBDk45f7e/yiP1d+YtO7Ec9lxYvKvF1wie7+8eRFpltu9LwP6NdN+AC7W6JL31yGXBB33YGXMCRkyknQMB+Qw4FBLIhaF/B+71QP3+PbyJiGsIfqlqBxGfT0jGJt4HVTyxF9C/ebnmB9F4h5GoNTMqPWkXl8WV/IXKCFkt1e3TfmSiy2vpZ3hPQrtJB47+AjYheEFoh2IMOuVl2lA=="
+              }
+            }
+          },
+          {
+            "@id": "https://databus.openenergyplatform.org/koubaa/test_group/first_artefact/2023-10-30#first_artefact.md",
+            "@type": "Part",
+            "hasVersion": "2023-10-30",
+            "issued": "2023-10-30T15:03:55.966Z",
+            "modified": "2023-10-30T15:03:55.966Z",
+            "byteSize": 13441,
+            "downloadURL": "https://raw.githubusercontent.com/dbpedia/databus/68f976e29e2db15472f1b664a6fd5807b88d1370/README.md",
+            "compression": "none",
+            "file": "https://databus.openenergyplatform.org/koubaa/test_group/first_artefact/2023-10-30/first_artefact.md",
+            "formatExtension": "md",
+            "sha256sum": "9f5d6eff6f0cd4fc841828646d9630ef6ca84d9f56072f38d4371b6ec82ce5da"
+          }
+        ]
+      },
+      "level": "info"
+    }
+  ]
+}

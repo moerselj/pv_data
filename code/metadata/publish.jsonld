@@ -1,0 +1,39 @@
+{
+    "@context": "https://downloads.dbpedia.org/databus/context.jsonld",
+    "@graph": [
+        {
+            "@id": "https://databus.openenergyplatform.org/koubaa/test_group",
+            "@type": "Group",
+            "title": "test_group",
+            "abstract": "test group description",
+            "description": "test group description"
+        },
+        {
+            "@id": "https://databus.openenergyplatform.org/koubaa/test_group/first_artefact",
+            "@type": "Artifact",
+            "title": "first artefact title",
+            "abstract": "first artefact desc",
+            "description": "first artefact desc"
+        },
+        {
+            "@type": [
+                "Version",
+                "Dataset"
+            ],
+            "@id": "https://databus.openenergyplatform.org/koubaa/test_group/first_artefact/2023-10-30",
+            "hasVersion": "2023-10-30",
+            "title": "first artefact title",
+            "abstract": "first version desc",
+            "description": "first version desc",
+            "license": "https://dalicc.net/licenselibrary/Apache-2.0",
+            "distribution": [
+                {
+                    "@type": "Part",
+                    "formatExtension": "md",
+                    "compression": "none",
+                    "downloadURL": "http://it4edm-influx-webexporter.cloud.iai.kit.edu/generateCSV.php?config=query-config/kit.cn.fm.efficio_mirror.efficio_raw.ini&start=2023-10-30T14:40:16Z&end=2023-10-30T15:40:16Z&select_building[]=449&output=csv"
+                }
+            ]
+        }
+    ]
+}

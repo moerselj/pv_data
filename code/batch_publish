@@ -1,0 +1,34 @@
+curl -X 'POST' \
+  'https://databus.openenergyplatform.org/api/publish?fetch-file-properties=true&log-level=debug' \
+  -H 'accept: application/json' \
+  -H 'X-API-KEY: aef1a7d0-6038-4eef-a821-5cb1c538da06' \
+  -H 'Content-Type: application/ld+json' \
+  -d '{
+    "@context": "https://downloads.dbpedia.org/databus/context.jsonld",
+    "@graph": [
+        {
+            "@type": "Group",
+            "@id": "https://dev.databus.dbpedia.org/koubaa/Active_Energy"
+        },
+        {
+            "@type": "Artefact",
+            "@id": "https://dev.databus.dbpedia.org/koubaa/Active_Energy/CSV-File"
+        },
+        {
+            "@type": "Dataset",
+            "@id": "https://dev.databus.dbpedia.org/koubaa/Active_Energy/test_artifact/2023-10-30#Dataset",
+            "hasVersion": "2023-10-30",
+            "title": "Active_Energy test_artifact",
+            "description": "version of the test_artifact dataset from DBpedia",
+            "license": "https://dalicc.net/licenselibrary/Apache-2.0",
+            "distribution": [
+                {
+                    "@type": "Part",
+                    "formatExtension": "md",
+                    "compression": "none",
+                    "downloadURL": "https://raw.githubusercontent.com/dbpedia/databus/68f976e29e2db15472f1b664a6fd5807b88d1370/README.md"
+                }
+            ]
+        }
+    ]
+}'
